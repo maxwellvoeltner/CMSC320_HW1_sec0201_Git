@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git?
+
+Answer: To save previous versions of our work
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Environmental Science
