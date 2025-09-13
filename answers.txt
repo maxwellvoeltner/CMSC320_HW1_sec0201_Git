@@ -9,7 +9,7 @@ Answer: Environmental Science
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: [Your answer here]
+Answer: merging tries to merge the same files together from different branches and brings up any conflicts while rebasing modifies the feature commit so it can be merged without conflict 
 
 Q4: What are you looking forward to this semester?
 
