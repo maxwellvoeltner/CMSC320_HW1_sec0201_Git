@@ -5,3 +5,8 @@ Answer: To save previous versions of our work
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Environmental Science
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Your answer here]
